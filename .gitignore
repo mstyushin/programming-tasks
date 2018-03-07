@@ -1,0 +1,14 @@
+.idea
+*.iml
+*/*.iml
+*/**/*.iml
+target
+__pycache__/
+*.pyc
+*.so
+MANIFEST
+.cache
+nosetests.xml
+coverage.xml
+.DS_Store
+out
